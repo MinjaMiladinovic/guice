@@ -1,3 +1,14 @@
+[![CodeScene Code Health](https://staging.codescene.io/projects/36554/status-badges/code-health)](https://staging.codescene.io/projects/36554)
+
+
+[![CodeScene Code Health](https://staging.codescene.io/projects/36554/status-badges/code-health?component-name=guice%2Fcore)](https://staging.codescene.io/projects/36554/architecture/biomarkers?component=guice%2Fcore)
+
+[![CodeScene Code Health](https://staging.codescene.io/projects/36554/status-badges/code-health?component-name=guice%2Fextensions)](https://staging.codescene.io/projects/36554/architecture/biomarkers?component=guice%2Fextensions)
+
+[![CodeScene Code Health](https://staging.codescene.io/projects/36554/status-badges/code-health?component-name=guice%2Ftools)](https://staging.codescene.io/projects/36554/architecture/biomarkers?component=guice%2Ftools)
+
+[![CodeScene Code Health](https://staging.codescene.io/projects/36554/status-badges/code-health?component-name=guice%2Fexamples)](https://staging.codescene.io/projects/36554/architecture/biomarkers?component=guice%2Fexamples)
+
 Guice
 ====
 
